@@ -54,6 +54,6 @@
   },
   "dependencies": {
     "fabric": "3.6.0",
-    "tui-image-editor": "git+https://github.com/joogazyn/tui.image-editor.git"
+    "tui-image-editor": "git+https://github.com/joogazyn/tui-image-editor.git"
   }
 }
